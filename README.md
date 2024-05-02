@@ -1,7 +1,5 @@
 # CoreSecurity
 
-private repo for Core Security exploit works
-
 Our team [CoreSecurity](https://www.coresec.co.kr/) in Republic of Korea. ([coresec@coresec.co.kr](mailto:coresec@coresec.co.kr))
 
 finding bugs in OT/ICS Area
